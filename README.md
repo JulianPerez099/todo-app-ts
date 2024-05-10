@@ -11,7 +11,7 @@ This is a simple todo app built with React and TypeScript.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-app.git`
+1. Clone the repository: `git clone https://github.com/JulianPerez099/todo-app-ts`
 2. Navigate to the project directory: `cd todo-app-ts`
 3. Install dependencies: `npm install`
 
